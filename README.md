@@ -31,7 +31,7 @@ Power and ground for all servos are connected to the breadboard's rails, which a
 📹 Videos
 
 🎥 Tinkercad Simulation – [Available]
-🎥 Real Circuit Demo – [Available]
+🎥 Real Circuit Demo – [(https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo1.MOV)]
 
 📦 How to Run
 
