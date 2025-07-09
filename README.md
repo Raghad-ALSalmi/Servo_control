@@ -37,5 +37,5 @@ Power and ground for all servos are connected to the breadboard's rails, which a
 📦 How to Run
 
 Connect your circuit as shown.
-Upload the servo_control.ino code to the Arduino Uno.
+Upload the sweep.ino code to the Arduino Uno.
 Watch the servos move sequentially and then return together.
