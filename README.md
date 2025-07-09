@@ -1,41 +1,57 @@
 # Servo_control
 
-This project demonstrates how to control four servo motors using an Arduino Uno. It was simulated using Tinkercad and also implemented in real life using a power bank as the power source.
+This project demonstrates how to control **four servo motors** using an **Arduino Uno**.  
+It was simulated using **Tinkercad** and also implemented in real life using a **power bank** as the power source.
 
-📷 Project Preview
+---
 
-Simulation done in Tinkercad (video available)
-Real implementation also recorded in a video
+## Project Preview
 
-🚀 How It Works
+- ✅ Simulation done in Tinkercad *(video available)*  
+- ✅ Real implementation also recorded in a video
 
-Each servo motor is gradually rotated from 0° to 180° in steps, then back to 0°. The motors move one after the other, and then all together in reverse.
+---
 
-🧰 Components Used
+## How It Works
 
-Arduino Uno
-4x Servo motors (SG90 or similar)
-Breadboard
-Jumper wires
-Power source (Power Bank via USB)
-Optional: External power supply for servos (if needed)
-⚙️ Circuit Details
+Each servo motor is gradually rotated from **0° to 180°** in steps, then back to 0°.  
+The motors move **one after the other**, and then all together in reverse.
 
-Servo	Signal Pin (Arduino)
-1	D3
-2	D5
-3	D6
-4	D9
-Power and ground for all servos are connected to the breadboard's rails, which are powered from the Arduino.
+---
 
-📹 Videos
+## Components Used
 
-🎥 Tinkercad Simulation – [(https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo.mp4)]
+- Arduino Uno  
+- 4x Servo motors (SG90 or similar)  
+- Breadboard  
+- Jumper wires  
+- Power source (Power Bank via USB)  
+- *Optional:* External power supply for servos (if needed)
 
-🎥 Real Circuit Demo – [(https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo1.MOV)]
+---
 
-📦 How to Run
+## Circuit Details
 
-Connect your circuit as shown.
-Upload the sweep.ino code to the Arduino Uno.
-Watch the servos move sequentially and then return together.
+| Servo | Signal Pin (Arduino) |
+|-------|----------------------|
+| 1     | D3                   |
+| 2     | D5                   |
+| 3     | D6                   |
+| 4     | D9                   |
+
+ Power and ground for all servos are connected to the breadboard's rails, powered from the Arduino.
+
+---
+
+## Videos
+
+- 🎥 **Tinkercad Simulation** – [Watch here](https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo.mp4)  
+- 🎥 **Real Circuit Demo** – [Watch here](https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo1.MOV)
+
+---
+
+## How to Run
+
+1. Connect your circuit as shown.  
+2. Upload the `sweep.ino` code to the Arduino Uno.  
+3. Watch the servos move sequentially and then return together.
