@@ -26,7 +26,6 @@ The motors move **one after the other**, and then all together in reverse.
 - Breadboard  
 - Jumper wires  
 - Power source (Power Bank via USB)  
-- *Optional:* External power supply for servos (if needed)
 
 ---
 
