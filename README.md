@@ -1,13 +1,12 @@
 # Servo_control
 
-[Watch the video here](https://github.com/Raghad-ALSalmi/Servo_control/blob/main/Task%20servo1.MOV)
-
 This project demonstrates how to control four servo motors using an Arduino Uno. It was simulated using Tinkercad and also implemented in real life using a power bank as the power source.
 
 📷 Project Preview
 
 Simulation done in Tinkercad (video available)
 Real implementation also recorded in a video
+
 🚀 How It Works
 
 Each servo motor is gradually rotated from 0° to 180° in steps, then back to 0°. The motors move one after the other, and then all together in reverse.
