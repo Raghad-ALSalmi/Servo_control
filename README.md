@@ -1,4 +1,4 @@
-# Servo_control
+# Servo Motor Control with Arduino
 
 This project demonstrates how to control **four servo motors** using an **Arduino Uno**.  
 It was simulated using **Tinkercad** and also implemented in real life using a **power bank** as the power source.
